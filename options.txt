@@ -11,7 +11,7 @@ bobView:true
 anaglyph3d:false
 advancedOpengl:false
 fpsLimit:1
-difficulty:2
+difficulty:3
 fancyGraphics:true
 ao:true
 clouds:true
@@ -50,5 +50,6 @@ key_key.playerlist:15
 key_key.pickItem:-98
 key_key.command:53
 key_Quest Log:38
+key_Open CraftGuide:34
 key_key.altPlacement:29
 key_Dynamic Lights toggle:38
