@@ -1,0 +1,1 @@
+CALL javaw -Xmx2048m -Xms1024m -jar Minecraft.exe
